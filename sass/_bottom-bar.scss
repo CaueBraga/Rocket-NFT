@@ -1,0 +1,30 @@
+.bottom-bar {
+  display: flex;
+  color: gray;
+  font-size: 20px;
+  justify-content: space-between;
+  border-bottom: 1px solid gray;
+}
+
+.bottom-bar__left {
+  color: white;
+  padding-left: 50px;
+  font-size: 30px;
+  border-right: 1px solid gray;
+  padding-right: 220px;
+  padding-top: 100px;
+}
+
+.right__lists {
+  display: flex;
+  padding-right: 250px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+li {
+  margin: 18px 50px;
+}
+input {
+  background-color: black;
+}

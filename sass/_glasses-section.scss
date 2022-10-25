@@ -1,0 +1,36 @@
+.glasses-section {
+  color: white;
+  display: flex;
+  border-bottom: 1px solid gray;
+}
+
+.numbers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px 50px;
+  border-right: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+}
+
+.texts {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.text-1 {
+  max-width: 30%;
+}

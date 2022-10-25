@@ -1,0 +1,27 @@
+.astronaut {
+  display: flex;
+  justify-content: space-between;
+
+  &__left {
+    border-right: 2px solid gray;
+    padding-right: 400px;
+    margin-left: 50px;
+  }
+
+  &__right {
+    margin-right: 50px;
+  }
+}
+
+.header-ast {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  font-size: 30px;
+}
+.text-ast {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
